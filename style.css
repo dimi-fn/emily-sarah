@@ -23,6 +23,7 @@
 }
 
 .navbar a {
+  font-family: 'Raleway', sans-serif;
   display: inline;
   color: white;
   text-align: center;
@@ -31,7 +32,7 @@
 }
 
 .navbar a:hover {
-  color:  yellow;
+  font-size: 20px;
 }
 
 #bg {
